@@ -1,6 +1,6 @@
 Name:
 
-Ignacio Nicolás Demian Lopéz Martínez
+Ignacio Nicolás Demian López Martínez
 
 Education:
 
